@@ -16,6 +16,10 @@ Site: www.fernandocelmer.com
 </br>
 E-mail: email@fernandocelmer.com
 
+# Technologies
+Bootstrap - https://getbootstrap.com/ <br> 
+CodeIgniter - https://codeigniter.com/ <br> 
+
 # SCREEN - ON 
 ________________________________
 <p>

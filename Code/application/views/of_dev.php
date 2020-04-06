@@ -9,20 +9,20 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   <title>IndexOffy</title>
 
   <!-- CSS -->
-  <?php $this->load->view('bp-template/add_default_css'); ?>
+  <?php $this->load->view('of-template/add_default_css'); ?>
   <!-- /.CSS -->
  
 </head>
 <body class="hold-transition sidebar-mini layout-fixed">
 
   <!-- HEADER -->
-  <?php $this->load->view('bp-template/header'); ?>
+  <?php $this->load->view('of-template/header'); ?>
   <!-- /.HEADER -->
 
 <div class="wrapper">
 
   <!-- MENU -->
-      <?php $this->load->view('bp-template/main_menu'); ?>
+      <?php $this->load->view('of-template/main_menu'); ?>
   <!-- /.MENU -->
 
   <!-- CONTEUDO -->
@@ -101,7 +101,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   </div>
   
   <!-- FOOTER -->
-    <?php $this->load->view('bp-template/footer'); ?>
+    <?php $this->load->view('of-template/footer'); ?>
   <!-- /.FOOTER -->
    
   <aside class="control-sidebar control-sidebar-dark">
@@ -110,8 +110,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </div>
 <!-- /.CONTEUDO -->
 
-<?php $this->load->view('bp-template/add_default_js'); ?>
-<?php $this->load->view('bp-template/add_notification'); ?>
+<?php $this->load->view('of-template/add_default_js'); ?>
+<?php $this->load->view('of-template/add_notification'); ?>
 
 </body>
 </html>

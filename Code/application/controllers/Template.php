@@ -8,13 +8,13 @@ class Template extends BaseAdmin {
     public function index()
 	{
        
-        $this->load->view('bp-template/main_menu'); 
-        $this->load->view('bp-template/header'); 
-        $this->load->view('bp-template/footer'); 
+        $this->load->view('of-template/main_menu'); 
+        $this->load->view('of-template/header'); 
+        $this->load->view('of-template/footer'); 
           
-        $this->load->view('bp-template/add_default_css');
-        $this->load->view('bp-template/add_default_js');
-        $this->load->view('bp-template/add_notification');*
+        $this->load->view('of-template/add_default_css');
+        $this->load->view('of-template/add_default_js');
+        $this->load->view('of-template/add_notification');*
         
     }
 	

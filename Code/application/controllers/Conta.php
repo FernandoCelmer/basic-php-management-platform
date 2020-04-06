@@ -9,8 +9,7 @@ class Conta extends CI_Controller {
 	}
 
 	public function Logar(){
-		echo "ok";
-		/*   
+				 
 	    try{
 	        
 	        $email = $this->input->post("email");
@@ -49,7 +48,7 @@ class Conta extends CI_Controller {
                         'mensagem' => $e->getMessage()
                 )));
 	    }
-	    */
+	    
 	}
 	
 

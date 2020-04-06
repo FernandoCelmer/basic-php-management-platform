@@ -20,6 +20,11 @@ E-mail: email@fernandocelmer.com
 Bootstrap - https://getbootstrap.com/ <br> 
 CodeIgniter - https://codeigniter.com/ <br> 
 
+# Demo
+Link - http://indexoffy.com/dev/management-platform/ <br> 
+Login - dev@indexoffy.com <br> 
+Password - admin <br> 
+
 # SCREEN - ON 
 ________________________________
 <p>

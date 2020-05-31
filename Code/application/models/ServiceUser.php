@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Servico_Usuario extends CI_Model { 
+class ServiceUser extends CI_Model { 
 
     private $prefixoTabela_Usuario = "BASE_CUSTOMER";
 

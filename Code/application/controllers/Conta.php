@@ -15,9 +15,9 @@ class Conta extends CI_Controller {
 	        $email = $this->input->post("email");
 			$senha = $this->input->post("senha");
 	        
-	        $this->load->model("Servico_Usuario");
+	        $this->load->model("ServiceUser");
 	        
-			$usuario = $this->Servico_Usuario->RetornarUsuarioEmailSenha($email, $senha);
+			$usuario = $this->ServiceUser->RetornarUsuarioEmailSenha($email, $senha);
 	        
 	        if(empty($usuario)){
 	            

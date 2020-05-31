@@ -27,16 +27,16 @@ ENGINE = InnoDB;
 
 
 -- -----------------------------------------------------
--- Table `mydb`.`USUARIO`
+-- Table `mydb`.`BASE_CUSTOMER`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `mydb`.`USUARIO` (
-  `COD_USUARIO` INT(11) NOT NULL,
-  `DES_USUARIO` VARCHAR(100) NULL,
+CREATE TABLE IF NOT EXISTS `mydb`.`BASE_CUSTOMER` (
+  `BASE_CUSTOMER` INT(11) NOT NULL,
+  `DES_BASE_CUSTOMER` VARCHAR(100) NULL,
   `DES_EMAIL` VARCHAR(100) NULL,
-  `DES_SENHA` VARCHAR(100) NULL,
+  `BASE_PASSWORD` VARCHAR(100) NULL,
   `TIP_ADMIN` TINYINT(1) NULL,
   `TIP_STATUS` TINYINT(1) NULL,
-  PRIMARY KEY (`COD_USUARIO`))
+  PRIMARY KEY (`BASE_CUSTOMER`))
 ENGINE = InnoDB;
 
 

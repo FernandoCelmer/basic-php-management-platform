@@ -40,7 +40,7 @@ ________________________________
 ________________________________
 <br>
 <b>Branch</b><p>
-  - OFFY-01 - Logs<p>
-  - OFFY-02 - Account<p>
+OFFY-01 - Logs<p>
+OFFY-02 - Account<p>
 
 

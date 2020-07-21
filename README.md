@@ -25,6 +25,10 @@ Link - http://indexoffy.com/dev/management-platform/ <br>
 Login - dev@indexoffy.com <br> 
 Password - admin <br> 
 
+# Demo
+OFFY-01 - Logs <br>
+OFFY-02 - Account <br>
+
 # SCREEN - ON 
 ________________________________
 <p>
@@ -36,12 +40,5 @@ ________________________________
 <br>
 <img src="https://github.com/FernandoCelmer/indexoffy-management-platform/blob/master/DataBase/INDEXOFFY.png?raw=true"></p>
 
-________________________________
-<br>
-# Branch
-________________________________
-<br>
-OFFY-01 - Logs<br>
-OFFY-02 - Account<br>
 
 

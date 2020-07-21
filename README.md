@@ -36,10 +36,11 @@ ________________________________
 <br>
 <img src="https://github.com/FernandoCelmer/indexoffy-management-platform/blob/master/DataBase/INDEXOFFY.png?raw=true"></p>
 
-<br>
 ________________________________
 <br>
-<b>Branch</b><p>
+# Branch
+________________________________
+<br>
 OFFY-01 - Logs<br>
 OFFY-02 - Account<br>
 

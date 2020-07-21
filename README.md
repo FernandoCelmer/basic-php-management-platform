@@ -25,7 +25,7 @@ Link - http://indexoffy.com/dev/management-platform/ <br>
 Login - dev@indexoffy.com <br> 
 Password - admin <br> 
 
-# Branch
+# Branchs
 OFFY-01 - Logs <br>
 OFFY-02 - Account <br>
 

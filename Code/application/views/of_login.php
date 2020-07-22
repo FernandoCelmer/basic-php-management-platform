@@ -76,7 +76,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <script>
   $(() => {         
     $("#cadastrar").click(function(){
-      window.location.href = "<?=base_url()?>index.php/Conta/Novo";
+      window.location.href = "<?=base_url()?>index.php/Account/Novo";
     });         
   });
 </script>
@@ -154,7 +154,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       let senha = $("#senhaUsuario").val();
           
         $.ajax({
-            url: "<?=base_url()?>index.php/Conta/Logar",
+            url: "<?=base_url()?>index.php/Account/Logar",
             method: "POST",
             data: {
                 email: email,

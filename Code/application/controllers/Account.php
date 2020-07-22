@@ -34,10 +34,8 @@ class Account extends CI_Controller {
                             'sucesso' => true,
                             'mensagem' => "Usuário Logado com sucesso!"
                     )));
-	        }
-	        
-	        
-	        
+			}
+			
 	    }catch(Exception $e){
 	        
 	        return $this->output

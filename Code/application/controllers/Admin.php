@@ -11,7 +11,7 @@ class Admin extends BaseAdmin {
         
         if(!isset($_SESSION['usuarioLogado'])){
             
-            redirect("/Conta"); 
+            redirect("/Account"); 
         }
     }
 	public function index()
@@ -31,7 +31,7 @@ class Admin extends BaseAdmin {
     public function logout(){
         $this->session->unset_userdata('usuarioLogado');
         $this->session->set_flashdata("sucesso","Deslogado com Sucesso!");
-        redirect("/Conta");
+        redirect("/Account");
 
     }
 

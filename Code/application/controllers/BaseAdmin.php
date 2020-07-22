@@ -8,7 +8,7 @@ abstract class BaseAdmin extends CI_Controller {
 	function __construct(){
 	    parent::__construct();
 	    if(!isset($_SESSION['usuarioLogado'])){
-	        redirect("/Conta");
+	        redirect("/Account");
 	    }else{
 	        if($_SESSION['usuarioLogado']->TIP_ADMIN){
 				$usuario = $this->usuarioMaster = true;

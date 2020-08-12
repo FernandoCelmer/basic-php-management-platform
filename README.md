@@ -1,4 +1,4 @@
-# [management-platform]
+# [management-platform] ![GitHub followers](https://img.shields.io/github/followers/FernandoCelmer?label=Fernando%20Celmer&style=social)
 
 Basic system for implementation with login and registration options.
 

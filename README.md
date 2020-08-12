@@ -18,17 +18,15 @@ E-mail: email@fernandocelmer.com
 
 ## Technologies
 
-Serviçes:
+- [Bootstrap](https://getbootstrap.com) 
+- [CodeIgniter](https://codeigniter.com)
 
-- [Bootstrap](https://getbootstrap.com) (core team)
-- [CodeIgniter](https://codeigniter.com) (core team)
-
-# Demo
+## Demo
 Link - http://indexoffy.com/dev/management-platform/ <br> 
 Login - dev@indexoffy.com <br> 
 Password - admin <br> 
 
-# Branchs
+## Branchs
 OFFY-01 - Logs <br>
 OFFY-02 - Account <br>
 

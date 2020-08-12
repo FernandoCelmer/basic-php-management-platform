@@ -18,7 +18,7 @@ E-mail: email@fernandocelmer.com
 
 # Technologies
 Bootstrap - https://getbootstrap.com/ <img border="0" src="https://img.shields.io/static/v1?label=version&message=v3.3&color=blue"> <br>  
-CodeIgniter - https://codeigniter.com/ <img border="0" src="https://img.shields.io/static/v1?label=version&message=v3.1.11&color=blue"> <br> 
+CodeIgniter - https://codeigniter.com/ <img border="0" src="https://github.com/bcit-ci/CodeIgniter=version&message=v3.1.11&color=blue"> <br> 
 
 # Demo
 Link - http://indexoffy.com/dev/management-platform/ <br> 

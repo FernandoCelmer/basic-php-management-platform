@@ -17,7 +17,7 @@ Site: www.fernandocelmer.com
 E-mail: email@fernandocelmer.com
 
 # Technologies
-Bootstrap - https://getbootstrap.com/ <br> 
+Bootstrap - https://getbootstrap.com/ https://img.shields.io/static/v1?label=version&message=v3.3&color=blue <br>  
 CodeIgniter - https://codeigniter.com/ <br> 
 
 # Demo

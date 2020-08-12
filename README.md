@@ -30,13 +30,13 @@ Password - admin <br>
 OFFY-01 - Logs <br>
 OFFY-02 - Account <br>
 
-# SCREEN - ON 
+## SCREEN - ON 
 ________________________________
 <p>
 <img src="https://github.com/FernandoCelmer/indexoffy-management-platform/blob/master/Designer/img_indexoffy-01.png?raw=true">
   
 
-# Database - ON
+## Database - ON
 ________________________________
 <br>
 <img src="https://github.com/FernandoCelmer/indexoffy-management-platform/blob/master/DataBase/INDEXOFFY.png?raw=true"></p>

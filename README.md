@@ -15,10 +15,6 @@ Basic system for implementation with login and registration options.
   <li>system // Framework folder</li>
 </ul>
 
-Site: www.fernandocelmer.com
-</br>
-E-mail: email@fernandocelmer.com
-
 ## Technologies
 
 - [Bootstrap](https://getbootstrap.com) 

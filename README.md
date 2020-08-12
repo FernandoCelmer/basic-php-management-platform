@@ -2,7 +2,8 @@
 
 Basic system for implementation with login and registration options.
 
-<p><b>Folders and Files</b></p>
+## Folders and Files
+
 <ul>
   <li>application // Application folder</li>
   <li>controllers // Controller files</li></li>

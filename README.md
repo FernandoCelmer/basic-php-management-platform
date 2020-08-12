@@ -1,7 +1,6 @@
 # [management-platform] 
-<a href="https://www.behance.net/fernandocelmer" target="_blank">
-<img src="https://github.com/FernandoCelmer/FernandoCelmer/blob/master/img/icons/icon-behance.png" alt="behance" class="w3-hover-opacity" width="35" height="35"></a>
 
+<img border="0" src="https://img.shields.io/badge/Contact-email%40fernandocelmer.com-lightgrey">
 ![GitHub last commit](https://img.shields.io/github/last-commit/FernandoCelmer/indexoffy-basic-php-dashboard) 
 ![GitHub followers](https://img.shields.io/github/followers/FernandoCelmer?label=Fernando%20Celmer&style=social)
 

@@ -6,14 +6,16 @@
 
 ## Folders and Files
 
-<ul>
-  <li>application // Application folder</li>
-  <li>controllers // Controller files</li></li>
-  <li>models // Models files</li>
-  <li>views // Views files</li>
-  <li>assets // Styles, Scripts and Images</li>
-  <li>system // Framework folder</li>
-</ul>
+- application // `Application folder`
+- controllers // `Controller files`
+- models // `Models files`
+- views // `Views files`
+- assets // `Styles, Scripts and Images`
+- system // `Framework folder`
+
+### Contact
+- Site: www.fernandocelmer.com
+- E-mail: email@fernandocelmer.com
 
 ## Technologies
 

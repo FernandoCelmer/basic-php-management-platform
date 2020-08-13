@@ -13,10 +13,6 @@
 - assets // `Styles, Scripts and Images`
 - system // `Framework folder`
 
-### Contact
-- Site: www.fernandocelmer.com
-- E-mail: email@fernandocelmer.com
-
 ## Technologies
 
 - [Bootstrap](https://getbootstrap.com) 

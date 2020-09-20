@@ -5,7 +5,7 @@
 #### Abstract: Basic system for implementation with login and registration options.
 
 ## Folders and Files
-
+ 
 - application // `Application folder`
 - controllers // `Controller files`
 - models // `Models files`

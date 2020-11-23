@@ -1,4 +1,4 @@
-# [management-platform] 
+# [offy-basic-php-dashboard] 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/FernandoCelmer/indexoffy-basic-php-dashboard) ![GitHub followers](https://img.shields.io/github/followers/FernandoCelmer?label=Fernando%20Celmer&style=social)
 

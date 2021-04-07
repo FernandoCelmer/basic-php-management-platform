@@ -24,8 +24,8 @@ Login - <br>
 Password - <br> 
 
 ## Branchs
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/FernandoCelmer/indexoffy-basic-php-dashboard/OFFY-01?color=blue&label=OFFY-01) - Logs <br>
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/FernandoCelmer/indexoffy-basic-php-dashboard/OFFY-02?color=blue&label=OFFY-02) - Account <br>
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/FernandoCelmer/project-basic-php-dashboard/OFFY-01?color=blue&label=OFFY-01) - Logs <br>
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/FernandoCelmer/project-basic-php-dashboard/OFFY-02?color=blue&label=OFFY-02) - Account <br>
 
 ## SCREEN - ON 
 ________________________________

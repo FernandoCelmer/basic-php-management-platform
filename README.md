@@ -19,9 +19,9 @@
 - [CodeIgniter](https://codeigniter.com)
 
 ## Demo
-Link - http://indexoffy.com/dev/management-platform/ <br> 
-Login - dev@indexoffy.com <br> 
-Password - admin <br> 
+Link - <br> 
+Login - <br> 
+Password - <br> 
 
 ## Branchs
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/FernandoCelmer/indexoffy-basic-php-dashboard/OFFY-01?color=blue&label=OFFY-01) - Logs <br>
